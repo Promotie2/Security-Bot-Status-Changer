@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Buy From : https://discord.gg/2MS5nzEy"];
+const statusMessages = ["Bekijkt Wolf Bots City"];
 
 
 let currentIndex = 0;
