@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Kijkt Naar FryDay Roleplay"];
+const statusMessages = ["Kijkt Naar Wolf Bots City"];
 
 
 let currentIndex = 0;
